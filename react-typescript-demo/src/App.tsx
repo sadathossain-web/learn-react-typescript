@@ -11,7 +11,7 @@ import { Status } from './components/Status';
 function App() {
   const personName ={
     first: 'Sadat',
-    last: 'Hossain',
+    last: 'hossain',
   }
 
   const nameList = [
@@ -20,7 +20,7 @@ function App() {
       last: 'Wayne',
     },
     {
-      first: 'Sadat',
+      first: 'Rakib',
       last: 'Hossain',
     },
     {
